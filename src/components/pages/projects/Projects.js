@@ -6,7 +6,7 @@ import Img3 from "../../../assets/Img3.png";
 import Img4 from "../../../assets/alibag-holidays-thumb.png";
 import Img5 from "../../../assets/horizon.png";
 import Img6 from "../../../assets/singingsuperstar.png";
-import { Link } from "react-router-dom";
+
 
 const Projects = () => {
   return (
