@@ -36,6 +36,42 @@ const Intro = () => {
         </Typography>
         <Box sx={{ textAlign: "left" }}>
           <Typography component='span' sx={{ fontSize: "1.2em" }}>
+            I Apply my passion for developing products with {""}
+          </Typography>
+          <Typography
+            component='span'
+            sx={{ fontSize: "1.2em", color: "#cd5ff8" }}
+          >
+            Node.js and {""}
+          </Typography>
+
+          <Typography
+            component='span'
+            sx={{ fontSize: "1.2em", color: "#cd5ff8" }}
+          >
+            JavaScript
+          </Typography>
+          <Box>
+            <Typography
+              component='span'
+              sx={{ fontSize: "1.2em", color: "#cd5ff8" }}
+            >
+              Libraries and Frameworks{" "}
+            </Typography>
+
+            <Typography component='span' sx={{ fontSize: "1.2em" }}>
+              like{" "}
+            </Typography>
+            <Typography
+              component='span'
+              sx={{ fontSize: "1.2em", color: "#cd5ff8" }}
+            >
+              React, NextJs, Springboot{" "}
+            </Typography>
+          </Box>
+        </Box>
+        <Box sx={{ textAlign: "left" }}>
+          <Typography component='span' sx={{ fontSize: "1.2em" }}>
             I am fluent in classics like &nbsp;
           </Typography>
           <Typography
@@ -53,7 +89,7 @@ const Intro = () => {
             component='span'
             sx={{ fontSize: "1.2em", color: "#cd5ff8" }}
           >
-            Web Technologies and Prudcts {""}
+            Web Technologies and Produdcts {""}
           </Typography>
           <Typography component='span' sx={{ fontSize: "1.2em" }}>
             and also in
@@ -72,42 +108,7 @@ const Intro = () => {
           </Box>
         </Box>
 
-        <Box sx={{ textAlign: "left" }}>
-          <Typography component='span' sx={{ fontSize: "1.2em" }}>
-            I Apply my passion for developing products with {""}
-          </Typography>
-          <Typography
-            component='span'
-            sx={{ fontSize: "1.2em", color: "#cd5ff8" }}
-          >
-            Node.js and {""}
-          </Typography>
-
-          <Typography
-            component='span'
-            sx={{ fontSize: "1.2em", color: "#cd5ff8" }}
-          >
-            Modern JavaScript
-          </Typography>
-          <Box>
-            <Typography
-              component='span'
-              sx={{ fontSize: "1.2em", color: "#cd5ff8" }}
-            >
-              Libraries and Frameworks{" "}
-            </Typography>
-
-            <Typography component='span' sx={{ fontSize: "1.2em" }}>
-              like{" "}
-            </Typography>
-            <Typography
-              component='span'
-              sx={{ fontSize: "1.2em", color: "#cd5ff8" }}
-            >
-              React and Next.js{" "}
-            </Typography>
-          </Box>
-        </Box>
+        
       </Box>
       <Box item xs={12} sm={12} md={4} lg={4}>
         <Box>
