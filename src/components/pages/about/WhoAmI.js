@@ -55,7 +55,7 @@ const WhoAmI = () => {
         </Box>
         <Box>
           <Typography sx={{ fontSize: "1.5em" }}>
-            I am a Mechanical Engineering with over 6 years of experience
+            I am a Mechanical Engineering with over 7.5 years of experience
           </Typography>
           <Typography sx={{ fontSize: "1.5em" }}>
             in Web Development.
@@ -72,7 +72,7 @@ const WhoAmI = () => {
                   sx={{ transform: "rotate(90deg)", color: "#ffffff" }}
                 />
               </ListItemIcon>
-              <ListItemText primary='Playing Guitar'  />
+              <ListItemText primary='Reading'  />
             </ListItemButton>
             <ListItemButton sx={{ mt: -2 }}>
               <ListItemIcon>
