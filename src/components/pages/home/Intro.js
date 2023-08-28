@@ -66,7 +66,7 @@ const Intro = () => {
               component='span'
               sx={{ fontSize: "1.2em", color: "#cd5ff8" }}
             >
-              React, NextJs, Springboot{" "}
+              React, NextJs, Django, Springboot{" "}
             </Typography>
           </Box>
         </Box>
