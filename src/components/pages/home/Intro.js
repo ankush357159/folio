@@ -42,14 +42,14 @@ const Intro = () => {
             component='span'
             sx={{ fontSize: "1.2em", color: "#cd5ff8" }}
           >
-            Node.js and {""}
+            React, SpringBoot and {""}
           </Typography>
 
           <Typography
             component='span'
             sx={{ fontSize: "1.2em", color: "#cd5ff8" }}
           >
-            JavaScript
+            NodeJs
           </Typography>
           <Box>
             <Typography
