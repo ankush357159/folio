@@ -9,11 +9,11 @@ function Type() {
       options={{
         strings: [
           "Senior Full-stack Web Developer",
-          "Spring-boot Developer",
+          "Spring Boot Developer",
           "React Developer",
           "NextJs Developer",
-          "MERN Stack Developer",
           "NodeJs Developer",
+          "AWS Certified Solutions Architect Associate",
         ],
         autoStart: true,
         loop: true,
